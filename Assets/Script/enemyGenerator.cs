@@ -1,5 +1,5 @@
 ﻿/*
-2D Retro Space Shooter
+2D Space Shooter
  
 Code by Alberto Betella (alberto@betella.net)
  
