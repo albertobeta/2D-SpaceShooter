@@ -1,6 +1,6 @@
 # 2D Space Shooter (Complete Unity Project)
 
-The is a complete project of a very simple 2D space shooter game created with Unity.
+This is a complete project of a very simple 2D space shooter game created with Unity.
 The game itself is not refined, yet it contains all the "ingredients"
 needed to learn the paradigms underlying videogames development including (but not limited to) 
 player-enemies interaction, physics, GUI, sounds, 2D parallax, etc.
